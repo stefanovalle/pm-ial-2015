@@ -1,0 +1,22 @@
+{
+    "name": "stefanovalle/pm-ial-2015",
+    "description": "Template di progetto per corso PM IAL 2015",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stefano Valle",
+            "email": "stefanovalle81@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^4.6"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-4": {
+            "Clientepazzo\\": "src/"
+        }
+    }
+}
