@@ -17,6 +17,7 @@
     "autoload": {
         "psr-4": {
             "Clientepazzo\\": "src/"
+        }
     },
     "require-dev": {
         "deployer/deployer": "~3.0"
